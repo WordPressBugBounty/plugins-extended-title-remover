@@ -1,0 +1,1 @@
+# plugins-extended-title-remover
